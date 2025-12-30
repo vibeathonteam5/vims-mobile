@@ -1,0 +1,8 @@
+{
+  "name": "Vanguard VMS - Enterprise Security Ecosystem",
+  "description": "A high-security, multi-tower visitor management system featuring AI-driven assistance, real-time analytics, QR/biometric access, and interactive campus navigation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
